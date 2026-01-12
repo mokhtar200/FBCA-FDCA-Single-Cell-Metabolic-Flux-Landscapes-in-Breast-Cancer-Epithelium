@@ -1,4 +1,4 @@
-# FDCA: Single-Cell Metabolic Flux Landscapes in Breast Cancer Epithelium
+# FBCA-FDCA: Single-Cell Metabolic Flux Landscapes in Breast Cancer Epithelium
 
 ## Overview
 This project implements a **single-cell systems biology framework** combining:
@@ -36,6 +36,9 @@ Traditional bulk RNA-seq masks this heterogeneity.
 
 ### 🔹 FDCA (Flux-Driven Cellular Analysis)
 A pathway-level scoring approach where **gene expression programs are translated into metabolic flux potentials** at the single-cell level.
+
+### 🔹 FBCA (Flux Balance Cellular Automata)
+An extension of FDCA that **aggregates flux behaviors across spatial or cluster-defined cellular neighborhoods**, enabling ecosystem-level metabolic modeling.
 
 ---
 
